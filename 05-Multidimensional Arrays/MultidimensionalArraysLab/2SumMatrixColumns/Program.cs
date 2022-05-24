@@ -36,17 +36,3 @@ namespace _2SumMatrixColumns
         }
     }
 }
-        //private static void ReadMatrix(string[,] matrix)
-        //{
-        //    const string separator = ", ";
-
-        //    for (int row = 0; row < matrix.GetLength(0); row++)
-        //    {
-        //        string[] inputData = Console.ReadLine().Split(separator).ToArray();
-
-        //        for (int column = 0; column < matrix.GetLength(1); column++)
-        //        {
-        //            matrix[row, column] = inputData[column];
-        //        }
-        //    }
-        //}
